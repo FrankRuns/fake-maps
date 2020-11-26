@@ -7,4 +7,6 @@ Tools for creating fake maps with GANs
 
 3. In the run_gans/udacity-DCGAN32 directory, use the udacity-DCGAN.ipynb file to build your model and generate new 32x32 images. Note that there's 20 images in the images directory... but you'll need many more images than that to get actual results. ALSO, this is one of the template notebooks used in the course for face generation - it's not as clean as it should be. Plus the directories are not seamless, they refer to my laptop. 
 
+## Sample output from the DCGAN256 model
+
 ![](results/dcgan256_99.png)
